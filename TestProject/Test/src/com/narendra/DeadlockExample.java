@@ -1,5 +1,10 @@
 package com.narendra;
 
+/**
+ * 
+ * @author KETAN
+ *
+ */
 public class DeadlockExample {
 	public static void main(String[] args) {
 		DeadlockExample deadlockExample=new DeadlockExample();
